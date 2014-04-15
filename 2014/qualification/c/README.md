@@ -7,6 +7,7 @@ I haven't found any of the solution in this Stack Overflow question that might l
 I know that my solution is not the best one and even not mathematically strict, but at least it's done completely by myself ^)
 
 The main idea is that every mine field may be smth like:
+
 1. No mines. The problem is solved. Obviously.
 2. The mine field is 2x2 and must contain 3 mines. Whenever we clicking the cell, all other cells will contain the mines. Problem is solved.
 3. The mine field is 2x2 and must contain less then 3 mines (but non-zero of course. We have already checked it in the first place). This situation leads to failure - there are no possibilities to solve this riddle in one click.
