@@ -11,4 +11,4 @@ Main logic stays the same, of course.
 Only the working solutions will be posted here.
 If some of them were completed after finishing the contest, this will be marked in comments.
 
-Input files to do some checks/experiments with the code may be freely downloaded from `Google Code Jam<http://code.google.com/codejam>` site.
+Input files to do some checks/experiments with the code may be freely downloaded from [Google Code Jam](http://code.google.com/codejam>) site.
