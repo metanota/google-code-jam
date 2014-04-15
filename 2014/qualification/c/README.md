@@ -2,7 +2,7 @@ This was the hardest one from 2014 qualification, and not only for me as you can
 The reason I failed to solve this in time is that my first algorithm was completely wrong and I've found it too late.
 The new algorithm works right, but I could check it only on the next day.
 
-I haven't found any of the solution in this Stack Overflow question that might looks like mine so I decided to show my algorithm below.
+I haven't found any of the solution in this [Stack Overflow question](http://stackoverflow.com/questions/23039471/minesweeper-master-from-google-code-jam2014-qualification-round) that might looks like mine so I decided to show my algorithm below.
 
 I know that my solution is not the best one and even not mathematically strict, but at least it's done completely by myself ^)
 
